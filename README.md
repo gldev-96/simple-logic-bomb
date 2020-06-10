@@ -2,4 +2,4 @@
 This is a simple logic bomb written in Python using Tkinter GUI library writen for a Cybersecurity class.
 
 ## How it works?
-It creates a file that causes denial of service in Microsoft Windows operating system. If the user tries to restart the system the .bat file executes itself again.
+This program its a random password generator in the surface. You can see that in the "safe.py" code. But in the "gen.py" when the "generate" button is pushed, then a fork bomb written in a .bat file is created. That fork bomb causes denial of service. If the system is rebooted then the file will run again.
